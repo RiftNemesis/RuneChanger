@@ -128,7 +128,7 @@
         <dependency>
             <groupId>ly.count.sdk</groupId>
             <artifactId>java</artifactId>
-            <version>19.09-sdk2-rc</version>
+            <version>20.11.0</version>
         </dependency>
     </dependencies>
 
